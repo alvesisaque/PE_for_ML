@@ -6,7 +6,7 @@ This repository contains the Supplementary Material of Position Paper published 
 Our research aims to identify the existing product-engineering methods and practices adopted in the industry for building applications and platforms relying on machine learning.  We conducted a Grey Literature Review (GLR) to investigate and discuss the methods and practices applied to the ML product lifecycle from the industry perspective. 
 
 
-### [Position Paper]()
+### [Position Paper](product_engineering_for_machine_learning-GLR/ICSE2021_MLProduct_position_paper.pdf)
 
 ### [Supplementary Material](product_engineering_for_machine_learning-GLR/PE_ML_SupplementaryMaterial.pdf)
 
